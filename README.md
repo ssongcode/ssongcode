@@ -25,4 +25,4 @@
 </div><br>
 
 ## 🏅 Algorithm 🏅
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssyeonn)](https://solved.ac/ssyeonn) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ssyeonn&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssyeonn)](https://solved.ac/ssyeonn)
