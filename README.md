@@ -5,7 +5,6 @@
 # 🐣 백엔드 개발자 송소연
 
 - 📧  Email : songsoy95@gmail.com
-- 📋  Blog : https://quickest-wrinkle-f30.notion.site/91b7abc24f6b4d64baf964aa506f7780?pvs=4
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssongcode&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssongcode&layout=compact&theme=dark)
 
