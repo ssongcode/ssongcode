@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=250&color=gradient&customColorList=20,21,22&text=Welcome%20to%20Soyeon's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=62)
 
 ## 🐣 백엔드 개발자 송소연
-📧 email : ssyeonn1123@gmail.com
+📧 Email : ssyeonn1123@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssongcode&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssongcode&layout=compact&theme=dark)
 
